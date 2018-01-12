@@ -1,6 +1,9 @@
 # Euler-Problems
 
 ## General
+
+![alt text](https://i.imgur.com/bu5Ccs9.jpg)
+
 Project-Euler Homepage : https://projecteuler.net/ \
 The Euler-Problems is a collection of mathematic riddles which test
 different skillsets such as geometry, combinatorics, number theory and many more.\
